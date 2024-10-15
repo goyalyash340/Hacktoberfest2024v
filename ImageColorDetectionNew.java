@@ -12,7 +12,7 @@ import javax.imageio.ImageIO;
 import javax.swing.JPanel;
 
 @SuppressWarnings("serial")
-public class ImageColorDetection extends JPanel {
+public class ImageColorDetectionNew extends JPanel {
 
 	private BufferedImage image;
 	private String imagePath;
